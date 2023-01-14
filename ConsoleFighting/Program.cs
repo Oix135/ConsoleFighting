@@ -321,3 +321,4 @@ class MessageFight
     public string Text { get; set; }
     public ConsoleColor ConsoleColor { get; set; }
 }
+//комп
