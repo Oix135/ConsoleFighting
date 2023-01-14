@@ -323,3 +323,4 @@ class MessageFight
 }
 //комп
 // комп 1
+//nout
