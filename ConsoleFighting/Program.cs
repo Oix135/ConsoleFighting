@@ -322,3 +322,4 @@ class MessageFight
     public ConsoleColor ConsoleColor { get; set; }
 }
 //комп
+// комп 1
