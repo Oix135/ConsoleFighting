@@ -372,3 +372,4 @@ void NewGame(out int playerHealth, out int enemyHealth, out int playerEnergy, ou
 // комп 1
 //nout
 //56546
+//fgdfggf
