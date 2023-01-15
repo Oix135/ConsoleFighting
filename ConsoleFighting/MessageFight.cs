@@ -12,3 +12,4 @@ namespace ConsoleFighting
         public ConsoleColor ConsoleColor { get; set; }
     }
 }
+//klkml
