@@ -14,3 +14,4 @@ namespace ConsoleFighting
 }
 //klkml
 // mnbmnbmn
+//7777777
