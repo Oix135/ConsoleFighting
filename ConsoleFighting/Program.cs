@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using ConsoleFighting;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -316,11 +318,7 @@
     }
 }
 
-class MessageFight
-{
-    public string Text { get; set; }
-    public ConsoleColor ConsoleColor { get; set; }
-}
+
 //комп
 // комп 1
 //nout
