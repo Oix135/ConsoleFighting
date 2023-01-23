@@ -17,3 +17,4 @@ namespace ConsoleFighting
 //7777777
 //8888
 //9999
+//0000000000000
